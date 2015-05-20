@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+    <string name="title_activity_news_content">NewsContentActivity</string>
+
+    <string name="title_activity_grid_view">GridViewActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_receiver">ReceiverActivity</string>
+
+    <string name="title_activity_webeiw">WebeiwActivity</string>
+
+</resources>
