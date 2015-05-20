@@ -46,5 +46,8 @@
         <activity android:name=".ExpandableListVIewActivity"
                   android:label="ExpandableListViewActivity"
                   />
+        <activity android:name="com.example.bxtyfufff.mytest.Material">
+            
+        </activity>
     </application>
 </manifest>

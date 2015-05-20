@@ -48,7 +48,7 @@ public class MainActivity extends Activity {
                         startActivity(intent4);
                         break;
                     case 5:
-                        Intent intent5=new Intent(MainActivity.this,ExpandableListVIewActivity.class );
+                        Intent intent5=new Intent(MainActivity.this,Material.class );
                         startActivity(intent5);
                         break;
                 }
